@@ -1,0 +1,5 @@
+.venv/
+.ruff_cache/
+.cache/
+.DS_Store
+*.zip
